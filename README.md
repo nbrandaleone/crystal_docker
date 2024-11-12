@@ -15,4 +15,5 @@ However, it is easier to just copy and link all libraries.
 Static linking only works for Alpine right now.
 
 See: https://dev.to/franciscello/a-crystal-story-a-container-that-sails-1d37
+
 See: https://gist.github.com/bcardiff/85ae47e66ff0df35a78697508fcb49af?permalink_comment_id=2261984
